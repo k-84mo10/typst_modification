@@ -1,0 +1,5 @@
+/home/kohki/2023-02-Typst/typst-main/target/release/build/num-bigint-4dcce4597fa98339/build_script_build-4dcce4597fa98339: /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.4.4/build.rs
+
+/home/kohki/2023-02-Typst/typst-main/target/release/build/num-bigint-4dcce4597fa98339/build_script_build-4dcce4597fa98339.d: /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.4.4/build.rs
+
+/home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.4.4/build.rs:

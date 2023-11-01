@@ -1,0 +1,1 @@
+{"rustc":16895609601713598366,"features":"[\"alloc\", \"default\"]","target":8665104878967817450,"profile":12415117930809651132,"path":3220749467517038571,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/litemap-e60e264b43da294f/dep-lib-litemap"}}],"rustflags":[],"metadata":1682438575432929259,"config":2202906307356721367,"compile_kind":0}

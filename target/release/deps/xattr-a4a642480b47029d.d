@@ -1,0 +1,12 @@
+/home/kohki/2023-02-Typst/typst-main/target/release/deps/xattr-a4a642480b47029d.rmeta: /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/lib.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/error.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/mod.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/util.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/mod.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/linux.rs
+
+/home/kohki/2023-02-Typst/typst-main/target/release/deps/libxattr-a4a642480b47029d.rlib: /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/lib.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/error.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/mod.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/util.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/mod.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/linux.rs
+
+/home/kohki/2023-02-Typst/typst-main/target/release/deps/xattr-a4a642480b47029d.d: /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/lib.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/error.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/mod.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/util.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/mod.rs /home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/linux.rs
+
+/home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/lib.rs:
+/home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/error.rs:
+/home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/mod.rs:
+/home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/util.rs:
+/home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/mod.rs:
+/home/kohki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.0.1/src/sys/linux_macos/linux.rs:
