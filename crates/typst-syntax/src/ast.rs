@@ -1507,7 +1507,7 @@ impl BinOp {
             Self::Sub => "-",
             Self::Mul => "*",
             Self::Div => "/",
-            Self::Mod => "?",
+            Self::Mod => "~",
             Self::And => "and",
             Self::Or => "or",
             Self::Eq => "==",

@@ -320,33 +320,8 @@ pub fn r#mod(lhs: Value, rhs: Value) -> StrResult<Value> {
         (Float(a), Int(b)) => Float(a % b as f64),
         (Float(a), Float(b)) => Float(a % b),
 
-        //(Length(a), Int(b)) => Length(a % b as f64),
-        //(Length(a), Float(b)) => Length(a % b),
         (Length(a), Length(b)) => Float(try_div_length(a, b)?),
         (Length(a), Relative(b)) if b.rel.is_zero() => Float(try_div_length(a, b.abs)?),
-
-        //(Angle(a), Int(b)) => Angle(a % b as f64),
-        //(Angle(a), Float(b)) => Angle(a % b),
-        //(Angle(a), Angle(b)) => Float(a % b),
-
-        //(Ratio(a), Int(b)) => Ratio(a % b as f64),
-        //(Ratio(a), Float(b)) => Ratio(a % b),
-        //(Ratio(a), Ratio(b)) => Float(a % b),
-        //(Ratio(a), Relative(b)) if b.abs.is_zero() => Float(a % b.rel),
-
-        /*(Relative(a), Int(b)) => Relative(a % b as f64),
-        (Relative(a), Float(b)) => Relative(a % b),
-        (Relative(a), Length(b)) if a.rel.is_zero() => Float(try_div_length(a.abs, b)?),
-        (Relative(a), Ratio(b)) if a.abs.is_zero() => Float(a.rel % b),
-        (Relative(a), Relative(b)) => Float(try_div_relative(a, b)?),
-
-        (Fraction(a), Int(b)) => Fraction(a % b as f64),
-        (Fraction(a), Float(b)) => Fraction(a % b),
-        (Fraction(a), Fraction(b)) => Float(a % b),
-
-        (Duration(a), Int(b)) => Duration(a % (b as f64)),
-        (Duration(a), Float(b)) => Duration(a % b),
-        (Duration(a), Duration(b)) => Float(a % b),*/
 
         (a, b) => mismatch!("cannot divide {} by {}", a, b),
     })
